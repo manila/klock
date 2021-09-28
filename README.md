@@ -1,5 +1,9 @@
 # KLOCK
 
-This is a cat clock invisioned inside Pico-8
+This is a cat clock built with Pico-8. This was built as part of a creative programming exercise. The prompt was, "ways of telling time".
 
 ![klock demo](klock.gif)
+
+## Demo
+
+You can [try it out on itch.io](https://manila.itch.io/klock)
