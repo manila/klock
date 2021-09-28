@@ -1,6 +1,6 @@
 # KLOCK
 
-This is a cat clock built with Pico-8. This was built as part of a creative programming exercise. The prompt was, "ways of telling time".
+This is a cat clock built with Pico-8. This was built as part of a creative programming exercise @ [The Recurse Center](https://recurse.com). The prompt was, "ways of telling time".
 
 ![klock demo](klock.gif)
 
